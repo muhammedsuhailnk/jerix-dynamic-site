@@ -25,7 +25,7 @@
 <body>
     <h1 style="text-align: center;background-color:gainsboro;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">About Us</h1>
     <div class="container col-12" id="abt">
-        <img class="img-fluid" src="" alt=""  style="height: 500px;width: 500px;float: right;">
+        <img class="img-fluid" src="img/jerix.JPG" alt=""  style="height: 500px;width: 500px;float: right;">
         <p style="font-size:x-large;">
            This website is providing daily information and education news. <br> state government and central government schemes. <br> financial news & latest breaking information.<br> state and central government scolarship.
         </p>
